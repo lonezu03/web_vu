@@ -1,0 +1,45 @@
+body
+{background-color:pink}
+
+#asd{
+    font-size: 30pt;
+    color: blue;
+    border: 3;
+    text-shadow: 6;
+}
+
+#hinhd{
+    vertical-align:middle;
+    position: relative;
+    left: 700px;;
+    opacity: 50%;
+}
+#chu1{
+
+    color:blue;
+    font-size: 15pt;
+    position: relative;
+    left: 300px;;
+}
+#ketqua {
+    position: relative;
+    color: blueviolet;
+    font-style: oblique;
+    font-size: 15pt;
+    position: relative;
+    left: 300px;
+}
+
+#video{
+    position: relative;
+    left: 90px;
+    position: relative;
+    left: 300px;
+}
+.Input{
+    color: burlywood;
+    font-style:italic;
+    font-size: 15pt;
+    position: relative;
+    left: 300px;
+}
