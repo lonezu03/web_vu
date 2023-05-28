@@ -10,3 +10,13 @@ function bam()
      '<p>Chào Bạn '+name+'</p>' + '<p>'+tuoi+' Tuổi</p>';
 
 }
+function nhan()
+{
+  var b=5;
+  for(var i=0;i<10;i++)
+  {
+
+    document.writeln('<p>'+(b+i)+'<p/>');
+    
+  }
+}

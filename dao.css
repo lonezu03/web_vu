@@ -37,9 +37,12 @@ body
     left: 300px;
 }
 .Input{
-    color: burlywood;
     font-style:italic;
     font-size: 15pt;
     position: relative;
     left: 300px;
+}
+#ds{
+    list-style-position: inside;
+    /* list-style-image: url('chuahang/dai.jpg'); */
 }
